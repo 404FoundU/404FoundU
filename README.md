@@ -8,7 +8,7 @@
 
 I do a lot of things, and some of them you may even find interesting. 🤞
 
-### :page_facing_up: Find my Resume <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> here  </a>
+### :page_with_curl: Find my <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> Resume  </a>
 
 ---
 
