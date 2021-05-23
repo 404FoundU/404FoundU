@@ -2,8 +2,7 @@
 
 <h1> Hi there and welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p><em>Senior Software Enginner at <a href="https://www.xpressdocs.com/">Xpressdocs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-from Texas</em></p>
+<p><em>Senior Software Enginner at <a href="https://www.xpressdocs.com/">Xpressdocs</a> from Texas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p>Passionate Full Stack Developer with 7+ years of experience in distributed and scalable e-commerce systems. Proficient in software engineering practices, object-oriented/functional designs, cost-effective and responsive solutions. Collaborative ICAgile Certified Professional fervent about quality, usability, and security.</p>
 I do a lot of things, and some of them you may even find interesting. 🤞
@@ -20,6 +19,13 @@ I do a lot of things, and some of them you may even find interesting. 🤞
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  
+  
+
+  
 </p>
 
 
@@ -31,15 +37,13 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 - [Windows key shortcuts for everyone](https://dev.to/404foundu/10-windows-key-shortcuts-for-everyone-15g9)
 <!-- BLOG-POST-LIST:END -->
 
------
-
-
-
 ---
 
 ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Unnikrishnan's+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&&include_all_commits=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Unnikrishnan's+GitHub+Stats&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=404FoundU&show_icons=true&theme=radical&include_all_commits=true">|<img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
 
 ### Send me a message!
 
