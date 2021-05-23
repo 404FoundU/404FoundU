@@ -5,6 +5,7 @@
 <p><em>Senior Software Enginner at <a href="https://www.xpressdocs.com/">Xpressdocs</a> from Texas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p>Passionate Full Stack Developer with 7+ years of experience in distributed and scalable e-commerce systems. Proficient in software engineering practices, object-oriented/functional designs, cost-effective and responsive solutions. Collaborative ICAgile Certified Professional fervent about quality, usability, and security.</p>
+
 I do a lot of things, and some of them you may even find interesting. 🤞
 
   <img align="right" alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -29,8 +30,6 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 </p>
 
 
----
-
 ### 📝 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
@@ -39,7 +38,6 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 
 ---
 
-### Github stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Unnikrishnan's+GitHub+Stats&show_icons=true" />
 
