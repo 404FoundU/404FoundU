@@ -7,7 +7,7 @@
 <p>Passionate Full Stack Developer with 7+ years of experience in distributed and scalable e-commerce systems. Proficient in software engineering practices, object-oriented/functional designs, cost-effective and responsive solutions. Collaborative ICAgile Certified Professional fervent about quality, usability, and security.</p>
 I do a lot of things, and some of them you may even find interesting. 🤞
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
