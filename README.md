@@ -8,7 +8,7 @@
 
 I do a lot of things, and some of them you may even find interesting. 🤞
 
-  <img align="right" alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="400" height="250" />
 
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
