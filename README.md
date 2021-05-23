@@ -10,7 +10,7 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 
 ---
 
-  <img align="right" alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="400" height="250" />
+  <img align="right" alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="350" height="200" />
 
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -38,6 +38,7 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 - [Windows key shortcuts for everyone](https://dev.to/404foundu/10-windows-key-shortcuts-for-everyone-15g9)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Unnikrishnan's+GitHub+Stats&show_icons=true" />
 
