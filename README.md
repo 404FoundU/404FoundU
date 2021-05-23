@@ -8,6 +8,8 @@
 
 I do a lot of things, and some of them you may even find interesting. 🤞
 
+### :page_facing_up: Find my Resume <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> here  </a>
+
 ---
 
   <img align="right" alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="350" height="200" />
@@ -31,7 +33,6 @@ I do a lot of things, and some of them you may even find interesting. 🤞
   
 </p>
 
-### :page_facing_up: Find my Resume <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> here  </a>
 
 ### 📝 Latest Blog Post 
 
