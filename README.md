@@ -1,12 +1,14 @@
 <img src="/Banner2.png" alt="banner" />
 
-### Hi there and welcome to my GitHub page 👋
+<h1> Hi there and welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p><em>Senior Software Enginner at <a href="https://www.xpressdocs.com/">Xpressdocs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
+from Texas</em></p>
 
- I am a software developer from Texas. I do a lot of things, and some of them you may even find interesting. 🤞
+<p>Passionate Full Stack Developer with 7+ years of experience in distributed and scalable e-commerce systems. Proficient in software engineering practices, object-oriented/functional designs, cost-effective and responsive solutions. Collaborative ICAgile Certified Professional fervent about quality, usability, and security.</p>
+I do a lot of things, and some of them you may even find interesting. 🤞
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -20,15 +22,26 @@
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" />
 </p>
 
-- I’m currently (and constantly) working on my <a href="https://aleksandarpopovic.com/">personal website</a>. 
-- I write a tech blog focused on React projects, tutorials, web design and other dev related topics. <a href="https://aleksandarpopovic.com/blog">Take a look</a>!
-- I have a <a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">YouTube channel</a> where I, you guessed it, talk about React projects, tutorials, web design and other dev related topics. I started making videos to push myself into making as many interesting and practical projects as I can, and to share with others interesting tidbits of knowledge I discovered on my coding journey. Take a peek - you might like it!
 
 ---
 
-### Send me a message!
+### 📝 Latest Blog Post
 
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+<!-- BLOG-POST-LIST:START -->
+- [Windows key shortcuts for everyone](https://dev.to/404foundu/10-windows-key-shortcuts-for-everyone-15g9)
+<!-- BLOG-POST-LIST:END -->
+
+-----
+
+
+
+---
+
+### Github stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Unnikrishnan's+GitHub+Stats&show_icons=true" />
+
+### Send me a message!
 
 <p>
   
@@ -39,10 +52,3 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
----
-
-### Github stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true" />
