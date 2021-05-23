@@ -30,9 +30,9 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 
   
 </p>
+### 📄 Find my Resume <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> here  </a>
 
-
-### 📝 Latest Blog Post
+### 📝 Latest Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
 - [Windows key shortcuts for everyone](https://dev.to/404foundu/10-windows-key-shortcuts-for-everyone-15g9)
