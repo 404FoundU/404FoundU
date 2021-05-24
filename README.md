@@ -41,8 +41,8 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Unnikrishnan's+GitHub+Stats&show_icons=true" />
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundU&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Unnikrishnan's+GitHub+Stats&show_icons=true" /> -->
 
 ### Send me a message!
 
