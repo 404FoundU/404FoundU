@@ -2,14 +2,14 @@
 
 <h1> Hi there and welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p><em>Senior Software Enginner at <a href="https://www.linkedin.com/company/virsec-systems/">Virsec Systems</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Senior Software Engineer at <a href="https://www.linkedin.com/company/virsec-systems/" target="_blank">Virsec Systems</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p>Java Full Stack Developer with 10 years of experience specializing in designing enterprise software for SaaS products. Proficient in software engineering practices, object-oriented/functional designs, cost-effective and responsive solutions.</p>
 
 I do a lot of things, and some of them you may even find interesting. 🤞
 
 <!-- ### :page_with_curl: Find my <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> Resume  </a> -->
-### :page_with_curl: Find my <a href="https://1drv.ms/f/s!AumDWTF3tHYdtGbZWfWOmehbtain"> Resume  </a>
+### :page_with_curl: Find my <a href="https://1drv.ms/f/s!AumDWTF3tHYdtGbZWfWOmehbtain" target="_blank"> Resume  </a>
 
 ---
 
