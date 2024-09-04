@@ -62,5 +62,5 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 
 ### 📝 Gitlab Contributions  
 
-  <img  alt="GIF" src="https://github.com/404FoundU/404FoundU/blob/main/code.gif?raw=true" width="350" height="200" />
+  <img  alt="GIF" src="/gitlab.png" />
 
