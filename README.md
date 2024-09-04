@@ -2,7 +2,7 @@
 
 <h1> Hi there and welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p><em>Senior Software Engineer at <a href="https://www.linkedin.com/company/virsec-systems/" target="_blank">Virsec Systems</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Senior Software Engineer at Virsec Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p>Java Full Stack Developer with 10 years of experience specializing in designing enterprise software for SaaS products. Proficient in software engineering practices, object-oriented/functional designs, cost-effective and responsive solutions.</p>
 
