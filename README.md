@@ -2,14 +2,14 @@
 
 <h1> Hi there and welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p><em>Senior Software Enginner at <a href="https://www.xpressdocs.com/">Virsec Systems</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Senior Software Enginner at <a href="https://www.linkedin.com/company/virsec-systems/">Virsec Systems</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p>Java Full Stack Developer with 10 years of experience specializing in designing enterprise software for SaaS products. Proficient in software engineering practices, object-oriented/functional designs, cost-effective and responsive solutions.</p>
 
 I do a lot of things, and some of them you may even find interesting. 🤞
 
-### :page_with_curl: Find my <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> Resume  </a>
-### :page_with_curl: Find my <a https://1drv.ms/f/s!AumDWTF3tHYdtGbZWfWOmehbtain"> Resume  </a>
+<!-- ### :page_with_curl: Find my <a href="https://1drv.ms/u/s!AumDWTF3tHYdqXH7piOI1-WCFKTB?e=vdahEo"> Resume  </a> -->
+### :page_with_curl: Find my <a href="https://1drv.ms/f/s!AumDWTF3tHYdtGbZWfWOmehbtain"> Resume  </a>
 
 ---
 
@@ -20,7 +20,7 @@ I do a lot of things, and some of them you may even find interesting. 🤞
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="Spring Boot" src="  https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Php" src="https://img.shields.io/badge/Php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
