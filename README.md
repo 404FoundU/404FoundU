@@ -60,7 +60,7 @@ I do many things, some of which you may even find interesting. 🤞
   </a>
 </p>
 
-### 📝 Gitlab Contributions  
+<!-- ### 📝 Gitlab Contributions  
 
-<!--  <img  alt="GIF" src="/gitlab2.png" /> -->
+  <img  alt="GIF" src="/gitlab2.png" /> -->
 
