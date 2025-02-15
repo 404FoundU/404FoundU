@@ -64,3 +64,26 @@ I do many things, some of which you may even find interesting. 🤞
 
   <img  alt="GIF" src="/gitlab2.png" /> -->
 
+## Recommendations
+
+**Manoj Paul**  
+*Technology and Product Leader | Wharton CTO | IIT Delhi*  
+May 16, 2024  
+
+Unnikrishnan worked as a **Senior Software Engineer** as part of the **Virsec engineering team**, where he led the **architecture, design, and implementation** of host monitoring microservices in the **Virsec Security Platform (VSP).**  
+
+He has been a **high performer** with **complex problem-solving skills**, translating solutions into **Java code** with **high quality**.  
+
+As a **senior member of the engineering team**, he also:  
+- Led **peer design and code reviews**  
+- Highlighted **gaps upfront** to prevent future rework  
+- Planned **sprints** with team members  
+- Oversaw **daily scrums** to ensure timely execution of committed deliverables  
+
+Unnikrishnan is **self-motivated**, takes ownership of **problems**, and **drives them to resolution**.  
+
+**Overall, I highly recommend Unnikrishnan for any role where his technical skills are a match.**
+
+<a href="https://www.linkedin.com/in/urpillai/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
