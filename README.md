@@ -1,6 +1,6 @@
 <img src="/banner3.png" alt="banner" />
 
-<h1> Hi there and welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1> Welcome to my GitHub page 👋 </h1>
 
 <p><em>Java Fullstack Engineer at Virsec Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
